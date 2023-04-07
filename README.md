@@ -1,16 +1,6 @@
-# College-Attendance-System
-Attendance Management System Node Js project
+ScheduleMaster - A class scheduling web application
 
-Requirements:
-Node Js
-My SQL
+This is an Academic Project. Please feel free to contribute or suggest any suggestions.
 
-How to Use:
-Download zip project and extract.
-Install Node 
-npm init
-import sql file to mysql
-
-User Name and Password 
-admin
-admin
+Developed for: Prestige Intitute of Engineering Management and Research, Indore.
+Developed by: Mohammad Bilal Khan, Md. Aytul Shad Ansari, Mo. Sahir Khan, Mohd. Furqan Belim
